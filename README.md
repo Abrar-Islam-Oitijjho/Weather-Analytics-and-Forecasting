@@ -1,5 +1,7 @@
 # Weather-Analytics-and-Forecasting
-A weather analytics and forecasting project using the Global Weather Repository dataset. Includes data cleaning, EDA, outliers detection, univariate (ETS, SARIMA) and multivariate (XGBoost, LightGBM) models, and ensemble methods, with performance comparison, and more. This project was implemented in Python, utilizing key libraries including pandas, NumPy, matplotlib, scikit-learn, statsmodels. Get a full overview from the "report" pdf file
+A weather analytics and forecasting project using the Global Weather Repository dataset. Includes data cleaning, EDA, outliers detection, univariate (ETS, SARIMA) and multivariate (XGBoost, LightGBM) models, and ensemble methods, with performance comparison, and more. This project was implemented in Python, utilizing key libraries including pandas, NumPy, matplotlib, scikit-learn, statsmodels. 
+
+Get a full overview from the **"report"** pdf file
 
 ![GitHub stars](https://img.shields.io/github/stars/Abrar-Islam-Oitijjho/Weather-Analytics-and-Forecasting?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/Abrar-Islam-Oitijjho/Weather-Analytics-and-Forecasting?style=social)
